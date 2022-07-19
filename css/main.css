@@ -1,0 +1,31 @@
+button{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  size: 60px;
+  border-radius: 50%;
+}     
+td{
+    size: 60px;
+    width: calc(100%/4);
+}      
+table{
+    margin: auto;
+    height: 400px;
+    table-layout: fixed;
+}
+.action{
+    background-color: blue;
+}
+h2{
+    text-align: center;
+    margin: 1cm;
+    background-color: #4CAF50;
+    height: 50px;
+}
+
